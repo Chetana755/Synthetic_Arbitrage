@@ -1,0 +1,3 @@
+C:/Users/pavan/synthetic-arbitrage/build/CMakeFiles/SyntheticArbitrage.dir
+C:/Users/pavan/synthetic-arbitrage/build/CMakeFiles/edit_cache.dir
+C:/Users/pavan/synthetic-arbitrage/build/CMakeFiles/rebuild_cache.dir

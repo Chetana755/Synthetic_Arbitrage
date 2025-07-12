@@ -1,0 +1,18 @@
+# ninja log v7
+163	3017	7737003184287501	CMakeFiles/SyntheticArbitrage.dir/src/SyntheticEngine.cpp.obj	205d60f10e924401
+121	76010	7737838061718672	CMakeFiles/SyntheticArbitrage.dir/src/main.cpp.obj	e03d23aaef8369b9
+8	56	7737846431681309	clean	4b7a9ec6ee23bafa
+41	379	7737846503532722	build.ninja	5a4b16b13156c1b9
+41	379	7737846503342601	C:/Users/pavan/synthetic-arbitrage/build/cmake_install.cmake	5a4b16b13156c1b9
+76012	78985	7737838820602426	SyntheticArbitrage.exe	a4776ffa185cf0e9
+176	90857	7737003184398889	CMakeFiles/SyntheticArbitrage.dir/src/bybit_clean.cpp.obj	afa6542947048ebd
+154	5987	7737003184192838	CMakeFiles/SyntheticArbitrage.dir/src/CrossExchangePair.cpp.obj	6412e88a6b104a42
+187	8237	7737003184524642	CMakeFiles/SyntheticArbitrage.dir/src/engine/synthetic_pricing.cpp.obj	2463e112d395011e
+200	87144	7737003184653591	CMakeFiles/SyntheticArbitrage.dir/src/feeds/binance_funding_ws.cpp.obj	2c310a6722d3ff0
+91	530	7737846542270371	CMakeFiles/SyntheticArbitrage.dir/src/SyntheticEngine.cpp.obj	205d60f10e924401
+81	2459	7737846542270371	CMakeFiles/SyntheticArbitrage.dir/src/CrossExchangePair.cpp.obj	6412e88a6b104a42
+149	4735	7737846543139053	CMakeFiles/SyntheticArbitrage.dir/src/engine/synthetic_pricing.cpp.obj	2463e112d395011e
+192	60510	7737846543384274	CMakeFiles/SyntheticArbitrage.dir/src/feeds/binance_funding_ws.cpp.obj	2c310a6722d3ff0
+102	63588	7737846542472079	CMakeFiles/SyntheticArbitrage.dir/src/bybit_clean.cpp.obj	afa6542947048ebd
+203	65215	7737846543483336	CMakeFiles/SyntheticArbitrage.dir/src/main.cpp.obj	e03d23aaef8369b9
+65216	67447	7737847193613843	SyntheticArbitrage.exe	a4776ffa185cf0e9
